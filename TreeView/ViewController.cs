@@ -21,6 +21,7 @@ namespace TreeView
           SelectedIcon = "FolderSelected",
           HighlightedIcon = "FolderSelected",
           IsHaveChildNode = true,
+          IsAllowSelect = true,
           Item = "String"
         },
         new TreeItem() {
@@ -30,6 +31,7 @@ namespace TreeView
           SelectedIcon = "FolderSelected",
           HighlightedIcon = "FolderSelected",
           IsHaveChildNode = true,
+          IsAllowSelect = true,
           Item = "String"
         }
       };
