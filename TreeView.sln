@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeView", "TreeView\TreeView.csproj", "{6C43425D-9E8D-4357-856C-26D23A8B3339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C43425D-9E8D-4357-856C-26D23A8B3339}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{6C43425D-9E8D-4357-856C-26D23A8B3339}.Debug|iPhone.Build.0 = Debug|iPhone
+		{6C43425D-9E8D-4357-856C-26D23A8B3339}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{6C43425D-9E8D-4357-856C-26D23A8B3339}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{6C43425D-9E8D-4357-856C-26D23A8B3339}.Release|iPhone.ActiveCfg = Release|iPhone
+		{6C43425D-9E8D-4357-856C-26D23A8B3339}.Release|iPhone.Build.0 = Release|iPhone
+		{6C43425D-9E8D-4357-856C-26D23A8B3339}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{6C43425D-9E8D-4357-856C-26D23A8B3339}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
